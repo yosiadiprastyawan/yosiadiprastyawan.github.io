@@ -8,3 +8,9 @@
 section {
   padding-top: 5rem;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  height: 70px;
+}
